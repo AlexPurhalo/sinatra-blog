@@ -7,6 +7,11 @@
     <li>$ bundler install</li>
 </ul>
 <h3>Progress:</h3>
+<h4># 3, validation</h4>
+<ul>
+    <li>try to upload empty data creating a post</li>
+    <li>as output you should get message says that this impossible do with empty data</li>
+</ul>
 <h4># 2</h4>
 <ul>
     <li>$ ruby app.rb</li>
