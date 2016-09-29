@@ -7,6 +7,11 @@
     <li>$ bundler install</li>
 </ul>
 <h3>Progress:</h3>
+<h4>Post Edit ability</h4>
+<ul>
+    <li>Find single post and go to it's post edit link</li>
+    <li>Change data about this post and update it</li>
+</ul>
 <h4># 3, validation</h4>
 <ul>
     <li>try to upload empty data creating a post</li>
